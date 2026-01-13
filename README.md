@@ -1,18 +1,113 @@
-# 💫 About Me:
-I build web applications that people actually want to use.<br>Currently working with Next.js and TypeScript, turning designs into production-ready code. I've shipped projects like a skill-swapping platform and a modern file-sharing app, focusing on clean architecture and user experience.<br>When I'm not coding, I'm solving DSA problems on LeetCode (100+ solved) or diving into AI and machine learning. I believe in writing code that's maintainable, scalable, and doesn't need a manual to understand.<br>Always learning, always shipping.<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Abhishek+Sonje;Full-Stack+Engineer;Next.js+%26+TypeScript+Specialist;Building+Scalable+Systems" alt="Typing SVG" />
+  <p align="center">
+     Creating accessible, pixel-perfect, and performant web experiences.
+  </p>
+  <div align="center">
+    <a href="https://linkedin.com/in/abhishek-sonje-83a333209" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/Abhi_SDev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
+    </a>
+    <a href="mailto:work.abhishek036@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    </a>
+    <a href="https://github.com/Abhishek-Sonje" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    </a>
+  </div>
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-sonje-83a333209) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Abhi_SDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.abhishek036@gmail.com) 
+## ⚡ Engineering Philosophy
 
-# 💻 Tech Stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishek-Sonje&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhishek-Sonje&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Sonje&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I am a software engineer who bridges the gap between **complex backend logic** and **intuitive user interfaces**. My work focuses on building production-ready applications that are not just functional, but also maintainable and scalable. 
+
+- 🔭 **Currently Building:** High-performance web apps using **Next.js 14+** and **Bun**.
+- 🏗️ **Architecture:** I prioritize **Clean Architecture**, modularization, and type safety.
+- 🧩 **Problem Solving:** Avid LeetCoder (100+ Solved) focused on DSA and optimization.
+- 🧠 **Interests:** Diving deep into AI/ML integration in modern web frameworks.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhishek-Sonje&icon=5&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Technical Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><strong>Frontend</strong></td>
+    <td align="center" width="600">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css,js" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><strong>Backend</strong></td>
+    <td align="center" width="600">
+      <img src="https://skillicons.dev/icons?i=nodejs,bun,java,go,express" /> 
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><strong>Data</strong></td>
+    <td align="center" width="600">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,prisma" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><strong>DevOps</strong></td>
+    <td align="center" width="600">
+      <img src="https://skillicons.dev/icons?i=aws,jenkins,docker,git,github,bash" />
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="90"><strong>Testing</strong></td>
+    <td align="center" width="600">
+      <img src="https://skillicons.dev/icons?i=jest,cypress,npm,pnpm" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Abhishek-Sonje">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek-Sonje&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhishek-Sonje&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://github.com/Abhishek-Sonje">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek-Sonje&theme=algolia" alt="Profile Summary" />
+  </a>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/Abhishek-Sonje">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Sonje&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-Sonje&style=for-the-badge&color=brightgreen)
+  
+</div>
+
+---
+
+<div align="center">
+  <i>💡 Open to collaborating on interesting projects and ideas!</i>
+  <br/>
+  <i>⭐️ From <a href="https://github.com/Abhishek-Sonje">Abhishek Sonje</a></i>
+</div>
