@@ -25,7 +25,7 @@
 
 I am a software engineer who bridges the gap between **complex backend logic** and **intuitive user interfaces**. My work focuses on building production-ready applications that are not just functional, but also maintainable and scalable. 
 
-- 🔭 **Currently Building:** High-performance web apps using **Next.js 14+** and **Bun**.
+- 🔭 **Currently Building:** High-performance web apps using **Next.js 16+** and **Bun**.
 - 🏗️ **Architecture:** I prioritize **Clean Architecture**, modularization, and type safety.
 - 🧩 **Problem Solving:** Avid LeetCoder (100+ Solved) focused on DSA and optimization.
 - 🧠 **Interests:** Diving deep into AI/ML integration in modern web frameworks.
