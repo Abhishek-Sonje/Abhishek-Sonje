@@ -1,40 +1,107 @@
-<div align="center">
-  <!-- Minimal Header Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Hi,+I'm+Abhishek.;Full-Stack+Engineer.;Building+with+Next.js+%2B+TypeScript." alt="Typing SVG" />
+<p align="center">
+  <img width="640" height="360" alt="pixeloutput" src="https://github.com/user-attachments/assets/d4dda580-9f5f-4199-a187-7211e6675674" />
 
-  <p align="center">
-    Hey there! I’m a developer focused on building clean, type-safe, and highly performant web applications. Lately, my focus has been split between polishing pixel-perfect user interfaces and engineering fast, modular backends using Next.js and Bun. 
-  </p>
+</p>
 
-  <p align="center">
-    When I'm not tweaking animations or structuring schemas, I’m tackling algorithmic challenges on LeetCode (100+ solved) or exploring practical ways to integrate AI workflows into modern web apps. Always down to collaborate on neat, impactful projects.
-  </p>
+<h1 align="center">Abhishek Sonje</h1>
 
-  <!-- Clean Text-Based Social Links to match the minimal aesthetic -->
-  <p align="center">
-    <a href="https://linkedin.com/in/abhishek-sonje-83a333209" target="_blank">LinkedIn</a> • 
-    <a href="https://x.com/Abhi_SDev" target="_blank">X / Twitter</a> • 
-    <a href="https://github.com/Abhishek-Sonje" target="_blank">GitHub</a> • 
-    <a href="mailto:work.abhishek036@gmail.com">Email</a>
-  </p>
-</div>
+<p align="center">
+  full-stack engineer&nbsp;&nbsp;/&nbsp;&nbsp;open source contributor&nbsp;&nbsp;/&nbsp;&nbsp;builder
+</p>
 
----
+<p align="center">
+  <a href="https://abhishekdev.tech">portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/abhishek-sonje">linkedin</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/Abhi_SDev">x</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:work.abhishek036@gmail.com">email</a>
+</p>
 
-## 🛠️ Toolkit
+<br>
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, HTML5/CSS3, JavaScript |
-| **Backend & Runtime** | Node.js, Bun, Go, Java, Express |
-| **Data & OrMs** | PostgreSQL, MySQL, MongoDB, Supabase, Prisma |
-| **DevOps & Tools** | AWS, Docker, Jenkins, Git, GitHub, Jest, Cypress |
+```text
+abhishek@github:~$ whoami
 
----
+name        Abhishek Sonje
+work        full-stack / backend / applied AI
+building    developer tools, web systems, things I want to exist
+learning    systems design, Go, performance engineering
+oss         Sugar Labs / Music Blocks
+location    Maharashtra, India
+```
 
-## 📊 Analytics
+## / now
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishek-Sonje&show_icons=true&theme=emerald&include_all_commits=true&count_private=true" alt="Abhishek's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhishek-Sonje&layout=compact&langs_count=8&theme=emerald" alt="Top Languages" />
-</div>
+I spend most of my time somewhere between product engineering and lower-level engineering problems.
+
+Right now that means contributing to open source, getting better at backend and systems work, experimenting with practical AI tooling, and shipping things instead of leaving them in a `/side-projects` folder forever.
+
+I'm also finishing my B.Tech in Computer Science and Design, graduating in 2027.
+
+## / open-source
+
+Currently contributing to [Sugar Labs / Music Blocks](https://github.com/sugarlabs/musicblocks).
+
+Most of my work there has been around debugging existing behaviour, block interactions, performance, test coverage, and fixing the sort of edge cases that only show up once you start reading a large codebase properly.
+
+I care more about understanding why something broke than getting the smallest possible patch merged.
+
+## / work
+
+```text
+2026     DODOX Studio
+         Full-Stack Developer Intern
+
+2025     ACURON Technologies
+         Frontend Engineering Intern
+```
+
+Worked across production React and Next.js applications, APIs, authentication, CMS architecture, databases, performance work and deployment.
+
+## / things I like working on
+
+```text
+[01] backend architecture
+[02] developer tooling
+[03] performance problems
+[04] real-time systems
+[05] applied AI
+[06] open-source software
+[07] interfaces that feel fast
+```
+
+I especially enjoy problems where the interesting part isn't adding another feature, but understanding how the pieces underneath it actually behave.
+
+## / stack
+
+```text
+languages       TypeScript · JavaScript · Go
+
+frontend        Next.js · React · Tailwind CSS · Framer Motion
+
+backend         Node.js · Express · REST · WebSockets · Socket.IO
+
+data            PostgreSQL · MongoDB · Drizzle ORM
+
+ai              Gemini · Claude · Vercel AI SDK
+
+infra           Docker · Vercel · CI/CD · GitHub
+
+testing         Jest · Cypress
+```
+
+## / elsewhere
+
+```text
+web       abhishekdev.tech
+github    github.com/Abhishek-Sonje
+linkedin  https://linkedin.com/in/abhishek-sonje-83a333209
+x         x.com/Abhi_SDev
+mail      work.abhishek036@gmail.com
+```
+
+<p align="center">
+  <sub>build things. read the source. fix what breaks.</sub>
+</p>
