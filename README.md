@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="640" height="360" alt="pixeloutput" src="https://github.com/user-attachments/assets/d4dda580-9f5f-4199-a187-7211e6675674" />
+<img width="1280"  alt="pixeloutput-ezgif com-optimize" src="https://github.com/user-attachments/assets/f77bdffa-f713-49d3-8a0f-a9736f48977f" />
+
 
 </p>
 
