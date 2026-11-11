@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://abhishekdev.tech">portfolio</a>
+  <a href="https://www.abhisheksonje.online">portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/abhishek-sonje">linkedin</a>
   &nbsp;·&nbsp;
@@ -96,7 +96,7 @@ testing         Jest · Cypress
 ## / elsewhere
 
 ```text
-web       abhishekdev.tech
+web       abhisheksonje.online
 github    github.com/Abhishek-Sonje
 linkedin  https://linkedin.com/in/abhishek-sonje-83a333209
 x         x.com/Abhi_SDev
